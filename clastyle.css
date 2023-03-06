@@ -1,0 +1,58 @@
+#cal{
+    background-color: black;
+
+    margin-top: 100px;
+    border: 2px solid gray;
+    border-radius: 22px;
+    width: 400px;
+    height: 420px;
+}
+#screen{
+    margin: 17px 10px 17px 10px;
+    height: 100px;
+    
+}
+#button{
+    height: 270px;
+    border: 2px solid gray;
+
+}
+.but{
+    width: 75px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 3px;
+    margin-bottom: 12px;
+    color:rgb(233, 233, 233);
+    background-color: rgb(102, 101, 101);
+    font-weight: bold;
+    cursor: pointer;
+}
+#btnn{
+    height: 98px;
+    width: 75px;
+    border-radius: 25px;
+}
+.butt{
+    background-color: rgb(197, 197, 196);
+    color: black;
+}
+.buut{
+    background-color: orange;
+}
+.btnn{
+    background-color: rgb(38 47 165);
+    color: white;
+    font-weight: bold;
+}
+#stext{
+    height: 100px;
+    width: 345px;
+    background-color: #0e0e0e;
+    border: 2px solid gray;
+    border-radius: 34px;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
